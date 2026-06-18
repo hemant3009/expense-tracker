@@ -8,7 +8,7 @@ import DashboardPage from './pages/DashboardPage';
 import Navbar from './components/Navbar';
 
 // store backend url in one place
-export const API_BASE_URL = 'http://localhost:5000/api';
+export const API_BASE_URL = 'https://expense-tracker-backend-7b4v.onrender.com/api';
 
 function App(){
 
